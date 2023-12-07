@@ -1,0 +1,21 @@
+C:\Users\adnan\source\repos\Banking System\bin\Debug\Banking System.exe
+C:\Users\adnan\source\repos\Banking System\bin\Debug\Bank.mdf
+C:\Users\adnan\source\repos\Banking System\bin\Debug\Bank_log.ldf
+C:\Users\adnan\source\repos\Banking System\bin\Debug\Banking System.exe.config
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking System.csproj.AssemblyReference.cache
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking_System.Screens.AccDetails.resources
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking_System.AddAcc.resources
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking_System.Screens.AddCust.resources
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking_System.Screens.CloseAcc.resources
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking_System.Screens.CustDetails.resources
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking_System.Screens.Deposit.resources
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking_System.MainMenu.resources
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking_System.Screens.RemoveCustomer.resources
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking_System.Screens.TransHistory.resources
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking_System.Withdraw.resources
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking System.csproj.GenerateResource.cache
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking System.csproj.CoreCompileInputs.cache
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking System.exe
+C:\Users\adnan\source\repos\Banking System\obj\Debug\Banking System.pdb
+C:\Users\adnan\source\repos\Banking System\bin\Debug\Banking System.pdb
